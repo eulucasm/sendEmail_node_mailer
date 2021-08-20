@@ -5,7 +5,7 @@ const app = express();
 const port = 3000;
 
 const user = "portalapphomologacao@gmail.com";
-const pass = "valiant010203";
+const pass = "*******";
 
 app.get('/', (req, res) => res.send('hello'));
 

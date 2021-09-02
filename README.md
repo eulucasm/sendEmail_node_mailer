@@ -5,9 +5,7 @@
 <p align="left" > 
   <b>Salve Devs!</b>
 </p>
-<a href="https://www.instagram.com/euluucasm/" target="_blank">
-  <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
-</a><br />
+
 <a href="https://www.linkedin.com/in/lucasmarques90/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px"></a>
 <p align="left" >O intuito desse projeto é auxiliar rapidamente em como mandar um email utilizando nodemailer.<br />
